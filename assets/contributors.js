@@ -118,5 +118,9 @@ export const contributors = [
   {
     name: 'Elias Hawa',
     githubProfile: 'https://github.com/EliasJRH'
+  },
+  {
+    name: 'Clint Galvez',
+    githubProfile: 'https://github.com/Crosoar'
   }
 ]
