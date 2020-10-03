@@ -4,6 +4,10 @@ export const contributors = [
     githubProfile: 'https://github.com/Walsker'
   },
   {
+    name: 'kamalchah',
+    githubProfile: 'https://github.com/kamalchah'
+  },
+  {
     name: 'AutoScott',
     githubProfile: 'https://github.com/SolidSoundGuy'
   },
