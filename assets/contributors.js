@@ -130,5 +130,9 @@ export const contributors = [
   {
     name: 'Clint Galvez',
     githubProfile: 'https://github.com/Crosoar'
+  },
+  {
+    name: 'Victoria Traub',
+    githubProfile: 'https://github.com/vtraub3'
   }
 ]
